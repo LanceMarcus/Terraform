@@ -17,8 +17,8 @@ Step1) **We need to create five files**:
 
 Step2) **If we want to integrate jenkins**:
 
-1)We need to remove terraform.tf vars as input will be parametized in jenkins
+1)We need to remove terraform.tf vars as input will be parametized in jenkins.
 
-2)In groovy script - we need to pass pipeline agent label as server
+2)In groovy script - we need to pass pipeline agent label as server.
 
-3) We are storing the code in bitbucket and in jenkins we will be giving repo name and file path for accessing.
+3)We are storing the code in bitbucket and in jenkins we will be giving repo name and file path for accessing.
